@@ -1,0 +1,7 @@
+{
+  "name": "bower-foo",
+  "private": true
+  "dependencies": {
+    "bower-bar": "azakus/bower-bar"
+  }
+}
